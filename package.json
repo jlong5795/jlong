@@ -1,5 +1,5 @@
 {
-    "name": "jlong",
+    "name": "jlong-cli",
     "version": "1.0.0",
     "bin": {
         "jlong": "index.js"
